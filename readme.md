@@ -1,17 +1,17 @@
-BTC
+**BTC** <br />
 bc1qa736vqdmr5lkce4e85fcv9alrz8engzs2sq4yg
 
-TRC-20
+**TRC-20** <br />
 TH3NQuwuTdjBroWdZYWva8G23Lw54Xe4dv
 
-ERC-20
+**ERC-20** <br />
 0x8Ac84A6ec8c2d1EfF4B1669627E6dD4927565053
 
-BEP-20
+**BEP-20** <br />
 0x8Ac84A6ec8c2d1EfF4B1669627E6dD4927565053
 
-USDT(SOL) 
+**USDT(SOL**)  <br />
 8x877fgyoWwgksKKTwD9WNBybJAnTvj18Nb6q3vC5cj9
 
-Eth
+**Ether** <br />
 0x8Ac84A6ec8c2d1EfF4B1669627E6dD4927565053
