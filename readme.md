@@ -1,9 +1,6 @@
 **BTC** <br />
-bc1qa736vqdmr5lkce4e85fcv9alrz8engzs2sq4yg
+bc1qcyz66zex008cfnhdp5wkd2058ltstrv9xf6v4j
 
-**TRON** <br />
-TH3NQuwuTdjBroWdZYWva8G23Lw54Xe4dv
-
-**ETH** <br />
-0x8Ac84A6ec8c2d1EfF4B1669627E6dD4927565053
+**ETH / BNB ** <br />
+0xf79A6adcA933ED139F384D3df52CC4f0AFA59Be3
 
